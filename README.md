@@ -1,5 +1,3 @@
-
-
 <h1>Problem Statement</h1>
 
 <h3>Abstract</h3>
@@ -14,18 +12,18 @@ The dataset consist of 41188 observations and 21 features ranging from bank's in
 
 <h3>Business Problem</h3>
 
-1. What kind of **customer charateristics** the marketing should target in order to increase term deposit opening? \
-2. Are there any **specific conditions** that affect customer to open term deposit? \
+1. What kind of **customer charateristics** the marketing should target in order to increase term deposit opening?
+2. Are there any **specific conditions** that affect customer to open term deposit?
 
 <h3>Business Objective</h3>
 
-The objective of this project is to **analyze the features or conditions of a customer charateristic** which marketing team should target in order to increase their term deposit opening. \
+The objective of this project is to **analyze the features or conditions of a customer charateristic** which marketing team should target in order to increase their term deposit opening.
 
 <h3>Machine Learning Task</h3>
 
 - This project will use **supervised machine learning algorithm** because the result (label) campaign already given in the dataset.
 - Utilizing **classification** algorithm to answer the business problems.
-- Analyze **feature importance** of the dataset to produce the best model. \
+- Analyze **feature importance** of the dataset to produce the best model.
 
 <h3>Performance Measurement</h3>
 
