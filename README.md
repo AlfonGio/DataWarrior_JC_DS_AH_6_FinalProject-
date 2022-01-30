@@ -1,3 +1,5 @@
+![alt text](https://www.essential-business.pt/wp-content/uploads/2021/04/portugal-high-resolution-banks-concept.jpg)
+
 <h1>Problem Statement</h1>
 
 <h3>Abstract</h3>
@@ -8,7 +10,7 @@ Unfortunately, marketing campaign result of a **Portuguese Banking Institution i
 
 It had made Portuguese Bank **struggled** since only a few people wanted to open a term deposit.
 
-The dataset consist of 41188 observations and 21 features ranging from bank's internal client to external social economy data.
+The dataset consist of **41188 observations and 21 features** ranging from bank's internal client to external social economy data.
 
 <h3>Business Problem</h3>
 
