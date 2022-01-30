@@ -32,3 +32,8 @@ The objective of this project is to **analyze the features or conditions of a cu
 In order to measure the performance of the classification model, we use the following metrics: 
 - **Precision**
 - **ROC - AUC**
+
+
+<br>**Purwadhika Final Project Data Science Bootcamp (Data Warrior)**
+- Billy Santoso Adil **@billyhmm21** (https://github.com/billyhmm21)
+- Alfonsus Giovanni Chrisanto **@AlfonGio** (https://github.com/alfongio)
